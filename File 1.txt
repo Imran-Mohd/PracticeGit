@@ -1,0 +1,3 @@
+git config --global user.name "Imran-Mohd"
+git config --global user.email "immohammadians@gmail.com"
+https://github.com/malayparikh/RemoteRepo4Nov/blob/master/git_steps.txt
